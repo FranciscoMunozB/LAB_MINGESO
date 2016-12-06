@@ -19,6 +19,7 @@ import javax.persistence.PersistenceContext;
 public class ProductoFacade implements ProductoLocal {
     @PersistenceContext(unitName = "MingesoCIPU")
     private EntityManager em;
+private int asd;
 
     @Override
     public void addProducto(Productos producto) {
