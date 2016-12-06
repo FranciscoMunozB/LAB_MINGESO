@@ -52,6 +52,7 @@ public class Productos implements Serializable {
 
     public Productos(Integer idProducto) {
         this.idProducto = idProducto;
+        //int numero = 0;
     }
 
     public Productos(Integer idProducto, String nombreProducto, int cantidad) {

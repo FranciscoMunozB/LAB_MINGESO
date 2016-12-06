@@ -7,7 +7,7 @@
         <title>Informacion Productos</title>
     </head>
     <body action="ProductoServlet">
-        <h1>Información Productos </h1>
+        <h1>Información Productos de NAVIDAD </h1>
         <form action="./ProductoServlet" method="POST">
             <table>
                 <tr>
